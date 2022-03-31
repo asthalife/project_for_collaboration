@@ -2,7 +2,9 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
-    <div>hello</div>
+    <div>hello
+        <h1>a heading added</h1>
+    </div>
 
     <div class="jumbotron">
         <h1>ASP.NET</h1>
