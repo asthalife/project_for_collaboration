@@ -4,6 +4,7 @@
 
     <div>hello
         <h1>a heading added</h1>
+        <div>Banner</div>
     </div>
 
     <div class="jumbotron">
